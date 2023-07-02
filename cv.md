@@ -76,3 +76,10 @@ def snail(array):
 
     return results
 ```
+### Education
+Institution|      Duration       |Note
+:---:|:-------------------:|:---:
+Polotsk State University|     2015 - 2020     |Civil engineering
+Itstep | Nov 2021 - Aug 2022 |Python for web development
+English scholl|       Dec 2022 - atm. | Studying English in progress      
+---
