@@ -76,10 +76,20 @@ def snail(array):
 
     return results
 ```
-### Education
+
+### Expirience:
+1. [YouTube video in audio to Telegram](https://github.com/arakut/ytb_audio_convert):
+* A simple telegram-bot, which helps to convert video on the YouTube to an audio file to Telegram.
+2. [Weather in terminal](https://github.com/arakut/swoopi215/tree/main/week_1/task_1):
+* A python script that helps you get the weather for a specific location.
+3. [Bitlinks creator and counter of clicks in terminal](https://github.com/arakut/swoopi215/tree/main/week_1/task_2):
+* A python script that helps you to cut your url or get count of clicks on your bitlink.
+### Education:
 Institution|      Duration       |Note
 :---:|:-------------------:|:---:
 Polotsk State University|     2015 - 2020     |Civil engineering
 Itstep | Nov 2021 - Aug 2022 |Python for web development
-English scholl|       Dec 2022 - atm. | Studying English in progress      
+English scholl|       Dec 2022 - atm. | Studying English in progress
+As you can see, I'm constantly learning something.
+
 ---
