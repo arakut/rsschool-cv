@@ -2,7 +2,7 @@
 ![Photo](https://sun9-42.userapi.com/impg/N3Qyx90Y0AvQnRMcEERWoqlPkdCciVWtRCAxjA/Hnrjm9TIhq8.jpg?size=1600x736&quality=96&sign=fceb31b06e42dcc4ef86d097618796ab&type=album)
 
 ## Junior web developer
-[[__TOC__]]
+[[_TOC_]]
 ### Contact info:
 * **Phone:** +375(33)654-65-58
 * **E-mail:** arturrakut@gmail.com
