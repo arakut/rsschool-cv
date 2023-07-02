@@ -1,11 +1,13 @@
 # Artur Rakuts
-***
+![Photo](https://mail.google.com/mail/u/0?ui=2&ik=546a4c5fcf&attid=0.1&permmsgid=msg-a:r8867173996345295960&th=18918c4b9005077e&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ8WYZtVv_jihtKY1lcmor6jWAZeYVt37eM_qcYiSiVAlDm_MbP-EHoft05O11HJnMAExTKct6fxBAw_jxlScg18McBvk-6khGiYilqxzuZSNnmQ9TtGJAeteeY&disp=emb&realattid=ii_ljm0o2eh0)
+
 ## Junior web developer
-***
+
 ### Contact info:
 * **Phone:** +375(33)654-65-58
 * **E-mail:** arturrakut@gmail.com
 * **Telegram:** @swoopi215
+* **Discord:** unum#3604
 * **[Codewars](https://www.codewars.com/users/swoopi215)**
 * **[Leetcode](https://leetcode.com/swoopi215/)**
 ---
