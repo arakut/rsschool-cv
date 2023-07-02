@@ -2,7 +2,7 @@
 ![Photo](https://sun9-42.userapi.com/impg/N3Qyx90Y0AvQnRMcEERWoqlPkdCciVWtRCAxjA/Hnrjm9TIhq8.jpg?size=1600x736&quality=96&sign=fceb31b06e42dcc4ef86d097618796ab&type=album)
 
 ## Junior web developer
-
+[[__TOC__]]
 ### Contact info:
 * **Phone:** +375(33)654-65-58
 * **E-mail:** arturrakut@gmail.com
@@ -87,7 +87,9 @@ def snail(array):
 3. [Bitlinks creator and counter of clicks in terminal](https://github.com/arakut/swoopi215/tree/main/week_1/task_2):
 * A python script that helps you to cut your url or get count of clicks on your bitlink.
 ---
+
 ### Education:
+
 Institution|      Duration       |Note
 :---:|:-------------------:|:---:
 Polotsk State University|     2015 - 2020     |Civil engineering
