@@ -90,6 +90,13 @@ Institution|      Duration       |Note
 Polotsk State University|     2015 - 2020     |Civil engineering
 Itstep | Nov 2021 - Aug 2022 |Python for web development
 English scholl|       Dec 2022 - atm. | Studying English in progress
-As you can see, I'm constantly learning something.
+
+* As you can see, I'm constantly learning something.
 
 ---
+### Languages:
+* English - in progress. Intermediate/Upper-intermediate (according to the online test at [EF SET](www.efset.org))
+![English level](https://ci6.googleusercontent.com/proxy/b5RJZkUdtkdV99j3F00AmYuhbM6wuzcv6xWCHZ24Xxf_DtWdQu8tEegbx2eYVIcxR12XGGOlcq1We1FiwLVVFRqX3hnky2w25nyB7g=s0-d-e1-ft#https://cdn.efset.org/efset-widget/img/certificate_60.png)
+![English level](https://ci3.googleusercontent.com/proxy/4Rz7MZ5fva_PdCYE0_i9ial_weLb1wx0vfSp4JTGbh4fHYpP0MmTF7Nx4LzcBHWaAq2yNPcrxHG0zXu_e1mGAOTy55km-mVrFKZDThARQ-crWdk0_UT8D9_kVQ=s0-d-e1-ft#https://cdn.efset.org/efset-media-assets/percentage-scores/badges/87.png)
+* Russian - native
+* Belorussian - native
