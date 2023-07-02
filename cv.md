@@ -1,5 +1,5 @@
 # Artur Rakuts
-![Photo](https://mail.google.com/mail/u/0?ui=2&ik=546a4c5fcf&attid=0.1&permmsgid=msg-a:r8867173996345295960&th=18918c4b9005077e&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ8WYZtVv_jihtKY1lcmor6jWAZeYVt37eM_qcYiSiVAlDm_MbP-EHoft05O11HJnMAExTKct6fxBAw_jxlScg18McBvk-6khGiYilqxzuZSNnmQ9TtGJAeteeY&disp=emb&realattid=ii_ljm0o2eh0)
+![Photo](https://sun9-42.userapi.com/impg/N3Qyx90Y0AvQnRMcEERWoqlPkdCciVWtRCAxjA/Hnrjm9TIhq8.jpg?size=1600x736&quality=96&sign=fceb31b06e42dcc4ef86d097618796ab&type=album)
 
 ## Junior web developer
 
@@ -78,7 +78,7 @@ def snail(array):
 
     return results
 ```
-
+---
 ### Expirience:
 1. [YouTube video in audio to Telegram](https://github.com/arakut/ytb_audio_convert):
 * A simple telegram-bot, which helps to convert video on the YouTube to an audio file to Telegram.
@@ -86,6 +86,7 @@ def snail(array):
 * A python script that helps you get the weather for a specific location.
 3. [Bitlinks creator and counter of clicks in terminal](https://github.com/arakut/swoopi215/tree/main/week_1/task_2):
 * A python script that helps you to cut your url or get count of clicks on your bitlink.
+---
 ### Education:
 Institution|      Duration       |Note
 :---:|:-------------------:|:---:
